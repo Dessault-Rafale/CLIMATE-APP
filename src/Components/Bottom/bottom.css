@@ -1,0 +1,107 @@
+.seconddiv{
+    height: 250px;
+    width: 1462px;
+    background-color: rgb(75, 128, 251);
+    border-radius: 10px;
+    /* text-align: center; */
+    padding-top: 10px;
+    opacity: 0.7;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.jins{
+    height: 200px;
+    width: 1240px;
+    margin-top: 20px;
+    background: yellow;
+    margin-left: 110px;
+    overflow-y: scroll;
+    /* overflow-x: scroll; */
+    display: flex;
+
+}
+
+
+
+
+.box1{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 0px;
+    margin-top: 40px;
+    border-top: none;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    
+}
+.box2{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 301px;
+    margin-top: -202px;
+    border-top: none;
+    
+}
+.box3{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 605px;
+    margin-top: -202px;
+    border-top: none;
+    
+}
+.box4{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 909px;
+    margin-top: -202px;
+    border-top: none;
+    
+    
+}
+
+.box5{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    border-top: none;
+    margin-top: 50px;
+}
+
+.box6{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    border-top: none;
+    margin-left: 200px;
+    margin-top: -202px;
+    margin-left: 301px;
+    
+}
+.box7{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    border-top: none;
+    margin-top: -202px;
+    margin-left: 602px;
+
+    
+}
+
+
+.today{
+    text-align: center;
+    margin-top: -5px;
+    color: red;
+}
+.imageA{
+    height: 30px;
+    width: 30px;
+    
+}
