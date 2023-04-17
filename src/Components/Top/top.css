@@ -1,0 +1,127 @@
+.first {
+    min-height: 100vh;
+    height: auto;
+    width: 100%;
+    background-image: url(../../../public/Assets/climate-3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 10px;
+}
+
+.searchbox {
+    height: 40px;
+    width: 400px;
+    background-color: rgb(75, 128, 251) ;
+    border-radius: 55px;
+    border: 2px solid white;
+    margin-top: 20px;
+    margin-left: 550px;
+    font-size: 17px;
+    /* opacity: 1; */
+
+}
+
+.text {
+    margin-top: 10px;
+    margin-left: 570px;
+    margin-top: -33px;
+    font-size: 17px;
+}
+
+.searchicon{
+    margin-left: 920px;
+    margin-top: -37px;
+}
+
+.firstbox {
+    height: 280px;
+    width: 710px;
+    background-color: rgb(75, 128, 251);
+    border-radius: 10px;
+    margin-top: 80px;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 10px;
+    opacity: 0.7;
+}
+
+.firsthead {
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+.secondhead {
+    font-size: 20px;
+}
+
+.thirdhead {
+    font-size: 15px;
+}
+
+.search {
+    margin-top: -37px;
+    margin-left: 360px;
+}
+
+.secondbox {
+    height: 280px;
+    width: 710px;
+    background-color: rgb(75, 128, 251);
+    border-radius: 10px;
+    margin-top: -290px;
+    margin-left: 772px;
+    text-align: center;
+    padding-top: 10px;
+    opacity: 0.7;
+
+}
+
+.image1 {
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    margin-left: -550px;
+}
+
+.heading1 {
+    font-size: 45px;
+    margin-left: -500px;
+
+}
+
+.para1 {
+    margin-left: -500px;
+    font-size: 19px;
+}
+
+.time1 {
+    margin-left: 550px;
+    margin-top: -200px;
+    font-size: 20px;
+}
+
+.time2 {
+    margin-left: 550px;
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+
+.air {
+    margin-left: -550px;
+    font-size: 15px;
+}
+
+.blood {
+    margin-left: -360px;
+    margin-top: -27px;
+    font-size: 15px;
+
+}
+.tower {
+    margin-left: -160px;
+    margin-top: -27px;
+    font-size: 15px;
+
+}
